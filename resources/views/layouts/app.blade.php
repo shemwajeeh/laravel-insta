@@ -11,7 +11,7 @@
     <title>{{ config('app.name', 'Insta') }} | @yield('title')</title>
 
     <!-- Scripts -->
-    <!-- @vite(['resources/sass/app.scss', 'resources/js/app.js']) -->
+   
     <link rel="stylesheet" href="{{ asset('css/app-BaVMVknW.css') }}">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 
